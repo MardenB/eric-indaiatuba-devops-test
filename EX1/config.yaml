@@ -1,0 +1,37 @@
+bands:
+  - name: Genesis
+    initials: GS
+    genre: Progressive Rock
+    members: Mike Rutherford, Tony Banks, Phil Collins
+    about: Genesis are an English rock band formed in 1967. The band went through a number of line-up changes over the years, with the classic line-up consisting of Tony Banks (keyboards), Mike Rutherford (bass/guitar), and Phil Collins (drums/vocals).
+    musics:
+      - name: Land of Confusion
+        album: Invisible Touch - 1986
+      - name: Follow You Follow Me
+        album: ...And Then There Were Three... - 1978
+      - name: Invisible Touch
+        album: Invisible Touch - 1986
+  - name: The Rolling Stones
+    initials: RS
+    genre: Rock
+    members: Mick Jagger, Keith Richards, Ronnie Wood, Charlie Watts
+    about: The Rolling Stones are an English rock band formed in London in 1962. They are one of the most popular rock and roll bands of all time.
+    musics:
+      - name: (I Can't Get No) Satisfaction
+        album: Out of Our Heads - 1965
+      - name: Paint It Black
+        album: Aftermath - 1966
+      - name: Sympathy for the Devil
+        album: Beggars Banquet - 1968
+  - name: Korn
+    initials: KN
+    genre: Nu Metal
+    members: Jonathan Davis, James "Munky" Shaffer, Reginald "Fieldy" Arvizu, Brian "Head" Welch, Ray Luzier
+    about: Korn is an American nu metal band from Bakersfield, California, formed in 1993. The band is known for pioneering the nu metal genre, and their music incorporates elements of heavy metal, alternative metal, hip hop, and industrial.
+    musics:
+      - name: Blind
+        album: Korn - 1994
+      - name: Freak on a Leash
+        album: Follow the Leader - 1998
+      - name: Falling Away from Me
+        album: Issues - 1999
