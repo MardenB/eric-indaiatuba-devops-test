@@ -9,7 +9,7 @@ After your gmail account is created, you will need to generate an App Password t
 ### 2) The Script
 
 Create a shell script that will download the image ```lucasgaspar95/python-email-sender:latest``` available in docker hub, run a container, run a few commands inside this container, save comands output to a text file and run a existing python script inside the contianer.
-Inside this container you should run the bellow commands saving it's output to RELATORY.txt
+Inside this container you should run the bellow commands saving it's output to REPORT.txt
    
  * RAM Memory information in GigaBytes
  * Working user information
@@ -24,7 +24,7 @@ The provided script expects specific environment variables, they should be set i
  * EMAIL_SENDER
  * EMAIL_RECIEVER
  * SENDER_KEY    **(This is the key generated in the setup step)**
- * RELATORY_PATH  **(This is the file were the commands output should be stored)**
+ * REPORT_PATH  **(This is the file were the commands output should be stored)**
 
 To run the provided script, just run:
 
